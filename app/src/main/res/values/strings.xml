@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">SetQuiz</string>
+    <string name="Q1">1.What is my name</string>
+    <string name="Q2">3.What is my surname</string>
+    <string name="Q3">5.Where do i stay</string>
+    <string name="Q4">4.What is my name</string>
+    <string name="question1">1. What is the term given to the parameter around a circle?</string>
+    <string name="question1_c1">Radius</string>
+    <string name="question1_c2">Area</string>
+    <string name="question1_c3">CIRCUMFERENCE</string>
+    <string name="question1_c4">Circle</string>
+
+    <string name="question2">2. What is an isosceless triangle?</string>
+    <string name="question2_c1">Two Sides Equal</string>
+    <string name="question2_c2">All Sides Equal</string>
+    <string name="question2_c3">Three Sides</string>
+    <string name="question2_c4">Right angled</string>
+
+    <string name="question3">3. What is a Rectangle?.</string>
+    <string name="question3_choice1">TWO LENGTH EQUAL</string>
+    <string name="question3_choice2">NO SIDES EQUAL</string>
+    <string name="question3_choice3">TWO BREADTH EQUAL</string>
+    <string name="question3_choice4">ALL SIDES EQUAL</string>
+
+    <string name="question5">5.SQUARE HAVE HOW MANY SIDES?</string>
+    <string name="question5_choice1">THREE SIDES</string>
+    <string name="question5_choice2">FOUR SIDES</string>
+    <string name="question5_choice3">TWO SIDES</string>
+    <string name="question5_choice4">ONE SIDE</string>
+
+
+    <string name="q7">6.HOW MANY DEGREES ARE THE IN RIGHT ANGLED TRIANLE ?</string>
+    <string name="question7_choice1">180</string>
+    <string name="question7_choice2">45</string>
+    <string name="question7_choice3">90</string>
+    <string name="question7_choice4">90.0</string>
+
+    <string name="Slogan">LEARNING IS CHALLENGING</string>
+    <string name="LOADINGPLEASEWAIT">LOADINGPLEASEWAIT</string>
+    <string name="Logo">Logo</string>
+</resources>
